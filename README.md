@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CraftAndDestroy&show_icons=true&theme=dark)
+<a href="https://floofyplasma.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CraftAndDestroy&show_icons=true&theme=dark" />
+</a>
