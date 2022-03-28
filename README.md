@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://floofyplasma.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CraftAndDestroy&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FloofyPlasma&show_icons=true&theme=dark" />
 </a>
