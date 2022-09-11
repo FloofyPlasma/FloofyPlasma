@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<iframe src="https://canary.discord.com/widget?id=983130262831501413&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 <a href="https://floofyplasma.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FloofyPlasma&show_icons=true&theme=dark" />
 </a>
