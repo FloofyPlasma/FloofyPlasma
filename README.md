@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Discord Server](https://discordapp.com/api/guilds/983130262831501413/widget.png?style=banner1)
+![Discord Server](https://discordapp.com/api/guilds/1146151374279688233/widget.png?style=banner1)
 
 <a href="https://floofyplasma.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FloofyPlasma&show_icons=true&theme=dark" />
