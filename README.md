@@ -1,21 +1,16 @@
+<img src="https://raw.githubusercontent.com/FloofyPlasma/FloofyPlasma/refs/heads/main/github-metrics.svg" align="right">
 
+# Hiya
 
-<!--
+I'm FloofyPlasma. These days I'm mostly working on FOSS. I have quite a bit of experience with Luau, and various dialects of C. I specialize in modularizing and refactoring code.
+I try to contribute to open source projects that I find interesting.
 
-### Hi there 👋
+# Current Projects
 
+I'm currently working with [@pyxfluff](https://github.com/pyxfluff) on Administer.
 
-**CraftAndDestroy/CraftAndDestroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out our work in the following repositories:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hey
+- [Administer](https://github.com/administer-org/administer)
+- [UI Components](https://github.com/administer-org/ui-components)
+- [Apps](https://github.com/administer-org/apps)
