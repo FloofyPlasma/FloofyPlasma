@@ -9,10 +9,4 @@ I try to contribute to open source projects that I find interesting.
 ### Current Projects
 ---
 
-I'm currently working with [@pyxfluff](https://github.com/pyxfluff) on Administer.
-
-Check out our work in the following repositories:
-
-- [Administer](https://github.com/administer-org/administer)
-- [UI Components](https://github.com/administer-org/ui-components)
-- [Apps](https://github.com/administer-org/apps)
+TBD
