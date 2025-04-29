@@ -269,7 +269,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 27.2 characters per line of code written</li>
+                        <li>Has approximately 27.1 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -292,7 +292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rbxts-flamework/core</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flamework is an extensible game framework. It requires typescript and offers many useful features.</div>
@@ -489,7 +489,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2025, 02:08:02 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Apr 2025, 03:06:10 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
