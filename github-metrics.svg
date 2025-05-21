@@ -292,7 +292,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uint23/sxwm</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tiling window managers dont have to be difficult</div>
@@ -345,7 +345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mjdave/tui</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tui is a small, cross platform, open source embeddable scripting language and serialization library for C++</div>
@@ -501,7 +501,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2025, 21:33:47 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 May 2025, 22:35:19 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
