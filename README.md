@@ -3,10 +3,18 @@
 ### Hiya
 ---
 
-I'm FloofyPlasma. These days I'm mostly working on FOSS. I have quite a bit of experience with Luau, and various dialects of C. I specialize in modularizing and refactoring code.
-I try to contribute to open source projects that I find interesting.
+I'm FloofyPlasma. I have experience with Luau, TypeScript, and various dialects of C. I especially like Objective-C(++). I specialize in modularizing and refactoring code,
+and try to contribute to open source projects that I find interesting.
 
 ### Current Projects
 ---
 
-TBD
+#### [BlockheadsServer](https://github.com/FloofyPlasma/bh-server)
+
+A decompilation of the server binary for [Blockheads](https://theblockheads.net/).
+Written in Objective-C++, and uses [libobjc2](https://github.com/gnustep/libobjc2) for cross-platform support.
+
+#### [aabric](https://github.com/FloofyPlasma/aabric-example-mod)
+
+A Babric backport for Minecraft Alpha 1.1.2_01. It's still a little unstable right now, but usable.
+It's currently not supported on the Modrinth site because not enough mods use it. 
