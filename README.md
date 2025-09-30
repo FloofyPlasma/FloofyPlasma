@@ -3,7 +3,7 @@
 ### Hiya
 ---
 
-I'm FloofyPlasma. I have experience with Luau, TypeScript, and various dialects of C. I especially like Objective-C(++). I specialize in modularizing and refactoring code,
+I'm FloofyPlasma. I have experience with Luau, TypeScript, and various dialects of C. I especially like Objective-C(++). I enjoy modularizing and refactoring code,
 and try to contribute to open source projects that I find interesting.
 
 ### Current Projects
