@@ -3,7 +3,7 @@
 ### Hiya
 ---
 
-I'm FloofyPlasma. I have experience with Luau, TypeScript, and various dialects of C. I especially like Objective-C(++). I enjoy modularizing and refactoring code,
+I'm FloofyPlasma. I have experience with Luau, TypeScript, and various dialects of C. I especially like Objective-C. I enjoy modularizing and refactoring code,
 and try to contribute to open source projects that I find interesting.
 
 ### Current Projects
@@ -18,3 +18,8 @@ Written in Objective-C++, and uses [libobjc2](https://github.com/gnustep/libobjc
 
 A Babric backport for Minecraft Alpha 1.1.2_01. It's still a little unstable right now, but usable.
 It's currently not supported on the Modrinth site because not enough mods use it. 
+
+#### [Raccoon Script](https://github.com/FloofyPlasma/raccoonscript)
+
+A programming language that uses [LLVM](https://github.com/llvm/llvm-project) as a backend.
+Why did I make this? I got bored. Yup. I got bored. Thats all the justication for this monstrocity of a project.
