@@ -9,11 +9,6 @@ and try to contribute to open source projects that I find interesting.
 ### Current Projects
 ---
 
-#### [BlockheadsServer](https://github.com/FloofyPlasma/bh-server)
-
-A decompilation of the server binary for [Blockheads](https://theblockheads.net/).
-Written in Objective-C++, and uses [libobjc2](https://github.com/gnustep/libobjc2) for cross-platform support.
-
 #### [aabric](https://github.com/FloofyPlasma/aabric-example-mod)
 
 A Babric backport for Minecraft Alpha 1.1.2_01. It's still a little unstable right now, but usable.
