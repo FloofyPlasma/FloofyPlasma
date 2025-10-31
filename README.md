@@ -12,9 +12,7 @@ and try to contribute to open source projects that I find interesting.
 #### [aabric](https://github.com/FloofyPlasma/aabric-example-mod)
 
 A Babric backport for Minecraft Alpha 1.1.2_01. It's still a little unstable right now, but usable.
-It's currently not supported on the Modrinth site because not enough mods use it. 
 
-#### [Raccoon Script](https://github.com/FloofyPlasma/raccoonscript)
+#### [Raccoon](https://github.com/FloofyPlasma/raccoon)
 
-A programming language that uses [LLVM](https://github.com/llvm/llvm-project) as a backend.
-Why did I make this? I got bored. Yup. I got bored. Thats all the justication for this monstrocity of a project.
+A statically-typed, systems programming language with manual memory management, and a focus on simplicity. Uses [LLVM](https://github.com/llvm/llvm-project) as a backend.
