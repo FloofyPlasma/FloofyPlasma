@@ -1,18 +1,27 @@
 <img src="https://raw.githubusercontent.com/FloofyPlasma/FloofyPlasma/refs/heads/main/github-metrics.svg" align="right">
 
-### Hiya
+### Hey, I'm FloofyPlasma
+
+Systems programmer building compilers, operating systems, and low-level tools. I work primarily in C/C++ on language implementations, LLVM backends, OS kernels, and game engines.
+
+I enjoy reverse engineering software, contributing to open source, and learning how things work under the hood.
+
+### Featured Projects
+
+**[Raccoon](https://github.com/FloofyPlasma/raccoon)** - Statically-typed programming language compiled via LLVM. Features control flow, loops, type checking, and a multi-pass compiler architecture with comprehensive test coverage.
+
+**[LLVM fox32 Backend](https://github.com/FloofyPlasma/llvm-project-fox32)** - Custom LLVM backend targeting the fox32 CPU architecture. Implements instruction selection, register allocation, and assembly generation.
+
+**[PlasmaOS](https://github.com/FloofyPlasma/PlasmaOS)** - x86-64 operating system with physical/virtual memory management, ext2 filesystem driver, and userspace support. Boots in QEMU via Limine bootloader.
+
+**[Reblocked](https://github.com/FloofyPlasma/Reblocked)** - 3D puzzle game built from scratch with a custom OpenGL-based engine featuring state machine architecture and modular rendering pipeline.
+
+### Tech Stack
+
+**Languages:** C, C++, Assembly (x86-64), Objective-C, Luau, TypeScript  
+**Tools:** LLVM, CMake, GDB, QEMU, Git  
+**Areas:** Compilers, OS Development, Graphics Programming, Reverse Engineering
+
 ---
 
-I'm FloofyPlasma. I have experience with Luau, TypeScript, and various dialects of C. I especially like Objective-C. I enjoy modularizing and refactoring code,
-and try to contribute to open source projects that I find interesting.
-
-### Current Projects
----
-
-#### [aabric](https://github.com/FloofyPlasma/aabric-example-mod)
-
-A Babric backport for Minecraft Alpha 1.1.2_01. It's still a little unstable right now, but usable.
-
-#### [Raccoon](https://github.com/FloofyPlasma/raccoon)
-
-A statically-typed, systems programming language with manual memory management, and a focus on simplicity. Uses [LLVM](https://github.com/llvm/llvm-project) as a backend.
+🌐 [floofyplasma.com](https://floofyplasma.com)
