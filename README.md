@@ -2,9 +2,9 @@
 
 ### Hey, I'm FloofyPlasma
 
-Systems programmer building compilers, operating systems, and low-level tools. I work primarily in C/C++ on language implementations, LLVM backends, OS kernels, and game engines.
+i like to write code :3
 
-I enjoy reverse engineering software, contributing to open source, and learning how things work under the hood.
+i also enjoy reverse engineering software, contributing to open source, and learning how things work under the hood.
 
 ### Featured Projects
 
