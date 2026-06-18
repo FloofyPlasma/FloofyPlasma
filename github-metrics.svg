@@ -155,7 +155,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SheafificationOfG/QueenJewels</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">On a hunt for the Jewels of the Queen of Mathematics... in LLVM IR</div>
@@ -202,7 +202,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/highway</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Performance-portable, length-agnostic SIMD with runtime dispatch</div>
@@ -255,7 +255,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tsoding/ht.h</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Hash Table in C but with a nice Generic API</div>
@@ -352,7 +352,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2026, 20:40:45 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Jun 2026, 20:41:38 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
